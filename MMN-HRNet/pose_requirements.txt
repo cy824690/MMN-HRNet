@@ -1,0 +1,11 @@
+torch>=1.0
+torchvision
+opencv-python
+numpy
+scipy
+matplotlib
+tqdm
+# HRNet相关依赖
+# MMN相关依赖
+timm
+tensorboardX 
